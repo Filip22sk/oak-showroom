@@ -1,0 +1,4 @@
+depthai>=2.28,<3
+opencv-python>=4.8
+numpy
+onnxruntime>=1.16
